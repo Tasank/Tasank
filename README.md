@@ -42,12 +42,12 @@
 Спасибо, что заглянули! Надеюсь, вам понравятся мои проекты и вы найдете что-то интересное для себя.
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tasank&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="tasank" />&nbsp;&nbsp;<img height="200px" src="https://sun9-44.userapi.com/impg/K4pYUCCTOBWF02o9bkLJw5QAqd4lqifkQ4TzdA/_sVglnad_mY.jpg?size=320x213&quality=95&sign=64f1af1fe4616399cad2bf6be4d9c812&type=album" alt="Professional Background"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tasank&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Tasank" />&nbsp;&nbsp;<img height="200px" src="https://sun9-44.userapi.com/impg/K4pYUCCTOBWF02o9bkLJw5QAqd4lqifkQ4TzdA/_sVglnad_mY.jpg?size=320x213&quality=95&sign=64f1af1fe4616399cad2bf6be4d9c812&type=album" alt="Professional Background"/>
 </p>
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api?username=tasank&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=true&theme=transparent" alt="tasank" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tasank&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=tasank&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=false&theme=transparent" alt="tasank" />
-<img src="https://github-readme-stats.vercel.app/api?username=tasank&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="tasank" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tasank&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=true&theme=transparent" alt="Tasank" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tasank&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tasank&show_icons=true&theme=shadow_green&rank_icon=default&include_all_commits=false&theme=transparent" alt="Tasank" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tasank&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=false&theme=transparent" alt="Tasank" />
 -->
