@@ -4,6 +4,12 @@
 ![Django](https://img.shields.io/badge/Django-3.2-green)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
+<div align="center">
+  <a href="https://postimg.cc/PLgyD6N3">
+    <img src="https://i.postimg.cc/FRRB28v4/Sacks-Spiral-Divisors-100000.png" alt="Sacks Spiral Divisors" style="width: 100%; max-width: 800px; height: auto;" />
+  </a>
+</div>
+
 ## Обо мне
 
 Я начинающий разработчик на Python с большим интересом к не только веб-разработке, но и в целом программированию. Вдохновляюсь возможностями, которые может предоставить программирование, и стремлюсь постоянно улучшать свои навыки.
@@ -41,4 +47,4 @@
 
 Спасибо, что заглянули! Надеюсь, вам понравятся мои проекты и вы найдете что-то интересное для себя.
 
-<img height="200px" src="https://analyse.sente-gmbh.de/wp-content/uploads/2020/08/iStock-588615942_super-scaled.jpg?size=320x213&quality=95&sign=64f1af1fe4616399cad2bf6be4d9c812&type=album" alt="Professional Background"/>)
+<img src="https://static.tildacdn.com/tild6261-3166-4835-b465-373063343163/398-3981558_igo-mid-.png?size=320x213&quality=95&sign=64f1af1fe4616399cad2bf6be4d9c812&type=album" alt="Professional Background" style="width: 100%; height: auto;" />
