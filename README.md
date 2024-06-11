@@ -33,9 +33,11 @@
 
 ## Мои проекты
 
-### [censorship_filter](https://github.com/Tasank/censorship_filter)
-Репозиторий предлагает настройку custom_filters.py. В котором реализовано цензура русских слов.
-Использованы сторонние библиотеки Trie и pymystem3.
+[//]: # (### [censorship_filter]&#40;https://github.com/Tasank/censorship_filter&#41;)
+
+[//]: # (Репозиторий предлагает настройку custom_filters.py. В котором реализовано цензура русских слов.)
+
+[//]: # (Использованы сторонние библиотеки Trie и pymystem3.)
 #### С остальными проектами можно ознакомится в репозитории
 
 
