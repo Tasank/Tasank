@@ -19,7 +19,7 @@
 - 📫 Как связаться со мной: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apanasovich04@mail.ru) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/avenyr)
 - ⚡️ Увлечения: Кодинг, чтение технических и художественных книг, поддержание физической подготовки и инди-игры. Нравится также сёги (японские шахматы) и обычные шахматы.
 
-## Навыки
+## Навыки и инструменты 
 
 ![Python](https://img.shields.io/badge/Python-3.8--3.11-blue?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
