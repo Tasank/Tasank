@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://postimg.cc/PLgyD6N3">
-    <img src="https://i.postimg.cc/FRRB28v4/Sacks-Spiral-Divisors-100000.png" alt="Sacks Spiral Divisors" width="200" height="200" />
+    <img src="https://i.postimg.cc/FRRB28v4/Sacks-Spiral-Divisors-100000.png" alt="Sacks Spiral Divisors" style="max-width: 400px; max-height: 400px; width: 100%; height: auto;" />
   </a>
 </div>
 
