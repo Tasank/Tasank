@@ -1,14 +1,18 @@
-# Привет, я Максим 👋
+## Привет, я Максим 👋
 
 ![Python](https://img.shields.io/badge/Python-3.8--3.10-blue)
 ![Django](https://img.shields.io/badge/Django-3.2-green)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tasank&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="tasank" />&nbsp;&nbsp;<img height="200px" src="./images/Ulam.png"/>
-</p>
 
-
+<div align="center">
+  <h2>Welcome to My GitHub Profile!</h2>
+  <p>Ознакомьтесь с моей статистикой на GitHub ниже:</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tasank&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Tasank's GitHub Stats" />
+  <br />
+  <img height="200px" src="./images/Ulam.png" alt="Ulam Image" />
+  <br />
+</div>
 
 
 ## Обо мне
