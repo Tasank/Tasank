@@ -4,11 +4,9 @@
 ![Django](https://img.shields.io/badge/Django-3.2-green)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-<div align="center">
-  <a href="https://postimg.cc/SYrBBGQC">
-    <img src="https://i.postimg.cc/FRRB28v4/Sacks-Spiral-Divisors-100000.png" alt="Sacks Spiral Divisors" width="300" height="300" />
-  </a>
-</div>
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tasank&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="tasank" />&nbsp;&nbsp;<img height="200px" src="./images/Ulam.png"/>
+</p>
 
 
 
