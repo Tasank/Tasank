@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 <div align="center">
-  <a href="https://postimg.cc/PLgyD6N3">
+  <a href="https://postimg.cc/SYrBBGQC">
     <img src="https://i.postimg.cc/FRRB28v4/Sacks-Spiral-Divisors-100000.png" alt="Sacks Spiral Divisors" width="300" height="300" />
   </a>
 </div>
