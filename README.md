@@ -1,10 +1,5 @@
 ## Привет, я Максим 👋
 
-![Python](https://img.shields.io/badge/Python-3.8--3.10-blue)
-![Django](https://img.shields.io/badge/Django-3.2-green)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-
 <div align="center">
   <h2>Welcome to My GitHub Profile!</h2>
   <p>Ознакомьтесь с моей статистикой на GitHub ниже:</p>
