@@ -48,7 +48,7 @@ BulletinBoard - это интернет-ресурс для фанатского
 ### [solutions-186-bens-stevenson-rus](https://github.com/Tasank/solutions-186-bens-stevenson-rus)
 
 Решения 186 задач из книги Бена Стивенсона на языке Python. Все задачи переведены и решены на русском языке.
-<img src="images/book.jpg" alt="Книга" style="width: 100%; height: auto;" />
+<img src="images/book.jpg" alt="Книга" style="width: 70%; height: auto;" />
 
 ### [censorship_filter](https://github.com/Tasank/censorship_filter)
 
