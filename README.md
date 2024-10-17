@@ -35,8 +35,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-### [BulletinBoard](https://github.com/Tasank/MMORPG_Site)
 
+
+## Мои Проекты
+
+### [BulletinBoard](https://github.com/Tasank/MMORPG_Site)
 
 BulletinBoard - это интернет-ресурс для фанатского сервера MMORPG, который позволяет пользователям создавать и редактировать объявления, отправлять отклики на объявления других пользователей и получать уведомления о новых откликах. Проект реализует функционал доски объявлений, где пользователи могут делиться информацией о своих услугах или товарах.
 
