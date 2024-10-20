@@ -1,9 +1,5 @@
 ## Привет, я Максим 👋
 
-![Python](https://img.shields.io/badge/Python-3.8--3.10-blue)
-![Django](https://img.shields.io/badge/Django-3.2-green)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
 
 <div align="center">
   <h2>Welcome to My GitHub Profile!</h2>
@@ -21,7 +17,7 @@
 
 - 🌱 В данный момент изучаю: **Django и автоматизацию задач с помощью Python**
 - 📫 Как связаться со мной: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apanasovich04@mail.ru) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/avenyr)
-- ⚡️ Увлечения: Кодинг, чтение технических и художественных книг, поддержание физической подготовки и инди-игры. Нравится также сёги (японские шахматы) и обычные шахматы.
+- ⚡️ Увлечения: Программирование, чтение, сёги (японские шахматы) и обычные шахматы.
 
 ## Навыки и инструменты 
 
