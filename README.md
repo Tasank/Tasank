@@ -55,7 +55,7 @@ BulletinBoard - это интернет-ресурс для фанатского
 
 [//]: # (- LinkedIn: [профиль]&#40;https://linkedin.com/in/профиль&#41;)
 - Email: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apanasovich04@mail.ru)
-- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/avenyr)
+- Telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](отсутствие)
 - GitHub: [Tasank](https://github.com/Tasank)
 
 Спасибо, что заглянули! Надеюсь, вам понравятся мои проекты и вы найдете что-то интересное для себя.
