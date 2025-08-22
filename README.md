@@ -16,7 +16,7 @@
 Я начинающий разработчик на Python с большим интересом к не только веб-разработке, но и в целом программированию. Вдохновляюсь возможностями, которые может предоставить программирование, и стремлюсь постоянно улучшать свои навыки.
 
 - 🌱 В данный момент изучаю: **фреймворк Django, автоматизацию задач с помощью Python, написание БД с помощью SQLite и PostgreSQL**
-- 📫 Как связаться со мной: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apanasovich04@mail.ru) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/avenyr)
+- 📫 Как связаться со мной: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:none) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](none)
 - ⚡️ Увлечения: Программирование, чтение, сёги (японские шахматы) и обычные шахматы.
 
 ## Навыки и инструменты 
@@ -52,6 +52,7 @@ BulletinBoard - это интернет-ресурс для фанатского
 
 
 ## Контакты
+- закрыты
 
 - Email: [![Закрыто](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:none)
 - Telegram: [![Отсутствие](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](отсутствие)
